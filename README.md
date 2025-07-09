@@ -1,0 +1,2 @@
+GROQ_API_KEY="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"
+TAVILY_API_KEY="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"
